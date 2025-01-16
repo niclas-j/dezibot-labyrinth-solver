@@ -1,3 +1,10 @@
+# Project Info
+
+This is a fork of the dezibot repo which includes my custom implementation of a labyrinth solver.
+The goal is that the robot gets placed on the start of the labyrinth. In the first run the roboter 
+creates a map. In the second run it will use that info to find the shortest way and run straight to 
+the finish block.
+
 # Dezibot4 Lib
 
 ## Links to external documentation
